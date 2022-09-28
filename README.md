@@ -1,16 +1,12 @@
-### Hi there 👋
+[Personal webpage](https://www.willhandley.co.uk)
+[Lab webpage](https://github.com/handley-lab)
 
-<!--
-**williamjameshandley/williamjameshandley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Research codes
+- [PolyChord](https://github.com/PolyChord/PolyChordLite)
+- [anesthetic](https://github.com/williamjameshandley/anesthetic)
+- [fgivenx](https://github.com/williamjameshandley/fgivenx)
+- [pyBAMBI](https://github.com/DarkMachines/pyBAMBI)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Personal codes
+- [vimteractive](https://github.com/williamjameshandley/vimteractive)
+- [py2nb](https://github.com/williamjameshandley/py2nb)
